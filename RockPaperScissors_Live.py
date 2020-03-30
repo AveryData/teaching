@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 30 12:14:32 2020
-
-@author: averysmith
-"""
 
 # 1) Title - Rock, Paper, Scissors
 print("Human VS Computer: Rock, Paper, Scissors!")
